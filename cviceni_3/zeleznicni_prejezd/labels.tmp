@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega128</DEVICE>
+ <WORKING_DIR>C:\Users\243511\Documents\predmety\pc1m\cviceni_3\zeleznicni_prejezd</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\243511\Documents\predmety\pc1m\cviceni_3\zeleznicni_prejezd\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m128def.inc</FILE>
+  <FILE>C:\Users\243511\Documents\predmety\pc1m\cviceni_3\zeleznicni_prejezd\macros.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\243511\Documents\predmety\pc1m\cviceni_3\zeleznicni_prejezd\zeleznicni_prejezd.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\243511\Documents\predmety\pc1m\cviceni_3\zeleznicni_prejezd\zeleznicni_prejezd.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\243511\Documents\predmety\pc1m\cviceni_3\zeleznicni_prejezd\zeleznicni_prejezd.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\243511\Documents\predmety\pc1m\cviceni_3\zeleznicni_prejezd\main.asm</FILE><LINE>12</LINE></main>
+  <delay><FILE>C:\Users\243511\Documents\predmety\pc1m\cviceni_3\zeleznicni_prejezd\main.asm</FILE><LINE>23</LINE></delay>
+  <loop3><FILE>C:\Users\243511\Documents\predmety\pc1m\cviceni_3\zeleznicni_prejezd\main.asm</FILE><LINE>25</LINE></loop3>
+  <loop2><FILE>C:\Users\243511\Documents\predmety\pc1m\cviceni_3\zeleznicni_prejezd\main.asm</FILE><LINE>26</LINE></loop2>
+  <loop1><FILE>C:\Users\243511\Documents\predmety\pc1m\cviceni_3\zeleznicni_prejezd\main.asm</FILE><LINE>27</LINE></loop1>
+ </LABELS>
+</ASSEMBLER_INFO>

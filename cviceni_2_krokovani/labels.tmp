@@ -1,0 +1,26 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega128</DEVICE>
+ <WORKING_DIR>C:\Users\243511\Documents\cviceni_2_krokovani</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\243511\Documents\cviceni_2_krokovani\cviceni_2_krokovani.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\243511\Documents\cviceni_2_krokovani\cviceni_2_krokovani.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\243511\Documents\cviceni_2_krokovani\cviceni_2_krokovani.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\243511\Documents\cviceni_2_krokovani\cviceni_2_krokovani.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <zac><FILE>C:\Users\243511\Documents\cviceni_2_krokovani\cviceni_2_krokovani.asm</FILE><LINE>7</LINE></zac>
+  <timer><FILE>C:\Users\243511\Documents\cviceni_2_krokovani\cviceni_2_krokovani.asm</FILE><LINE>28</LINE></timer>
+  <loop><FILE>C:\Users\243511\Documents\cviceni_2_krokovani\cviceni_2_krokovani.asm</FILE><LINE>25</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>

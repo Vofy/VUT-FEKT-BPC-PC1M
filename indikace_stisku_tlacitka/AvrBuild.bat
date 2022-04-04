@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\243511\Documents\indikace_stisku_tlacitka\labels.tmp" -fI -W+ie -C V2E -o "C:\Users\243511\Documents\indikace_stisku_tlacitka\indikace_stisku_tlacitka.hex" -d "C:\Users\243511\Documents\indikace_stisku_tlacitka\indikace_stisku_tlacitka.obj" -e "C:\Users\243511\Documents\indikace_stisku_tlacitka\indikace_stisku_tlacitka.eep" -m "C:\Users\243511\Documents\indikace_stisku_tlacitka\indikace_stisku_tlacitka.map" "C:\Users\243511\Documents\indikace_stisku_tlacitka\main.asm"
